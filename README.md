@@ -27,125 +27,120 @@ https://hackersec.com/ <br>
 https://solyd.com.br/ <br>
 https://pato.academy/ <br>
 
-## 4. Notícias em geral (Cybersecurity)
-https://www.weforum.org/stories/cybersecurity/ 
-https://thehackernews.com/ (Muito bom)
-https://www.cisoadvisor.com.br/ 
-https://www.thecyberwire.com/ 
-https://www.fbi.gov/investigate/cyber (FBI)
-https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/ (NSA)
-https://www.weforum.org/stories/cybersecurity/ (WEF)
-https://www.fortiguard.com/ 
-https://www.csoonline.com/ 
-https://boletimsec.com.br/ 
+## 4. Notícias em geral (Cybersecurity) <br>
+https://www.weforum.org/stories/cybersecurity/ <br>
+https://thehackernews.com/ (Muito bom) <br>
+https://www.cisoadvisor.com.br/ <br>
+https://www.thecyberwire.com/ <br>
+https://www.fbi.gov/investigate/cyber (FBI) <br>
+https://www.nsa.gov/Academics/Centers-of-Academic-Excellence/ (NSA) <br>
+https://www.weforum.org/stories/cybersecurity/ (WEF) <br>
+https://www.fortiguard.com/ <br>
+https://www.csoonline.com/ <br>
+https://boletimsec.com.br/ <br>
 
-## 5. Órgãos Governamentais / Frameworks
-https://www.cisa.gov/ 
-https://www.nist.gov/cybersecurity 
-https://www.cisecurity.org/ 
-https://www.cert.br/ 
+## 5. Órgãos Governamentais / Frameworks <br>
+https://www.cisa.gov/ <br>
+https://www.nist.gov/cybersecurity <br>
+https://www.cisecurity.org/ <br>
+https://www.cert.br/ <br>
 
-## 6. Ferramentas em Geral
-https://www.torproject.org/download/ 
-https://nmap.org/ 
+## 6. Ferramentas em Geral <br>
+https://www.torproject.org/download/ <br>
+https://nmap.org/ <br>
 
-## 7. Sistemas Operacionais
-https://www.kali.org/ 
-https://parrotsec.org/ 
-https://sourceforge.net/projects/metasploitable/ 
-https://tails.net/index.pt.html 
+## 7. Sistemas Operacionais <br>
+https://www.kali.org/ <br>
+https://parrotsec.org/ <br>
+https://sourceforge.net/projects/metasploitable/ <br>
+https://tails.net/index.pt.html <br>
 
-## 8. Mapa digital de ataque
-https://www.digitalattackmap.com/ 
-https://cybermap.kaspersky.com/ 
-https://threatmap.fortiguard.com/ 
-https://attackmap.sonicwall.com/live-attack-map/ 
-https://threatbutt.com/map/ 
-https://www.spamhaus.com/threat-map/ 
+## 8. Mapa digital de ataque <br>
+https://www.digitalattackmap.com/ <br> 
+https://cybermap.kaspersky.com/ <br>
+https://threatmap.fortiguard.com/ <br>
+https://attackmap.sonicwall.com/live-attack-map/ <br>
+https://threatbutt.com/map/ <br>
+https://www.spamhaus.com/threat-map/ <br>
 
-## 9. Matérias interessantes
-https://mittechreview.com.br/como-os-profissionais-de-ciberseguranca-devem-tomar-melhores-decisoes/ 
-https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html 
+## 9. Matérias interessantes <br>
+https://mittechreview.com.br/como-os-profissionais-de-ciberseguranca-devem-tomar-melhores-decisoes/ <br>
+https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html <br>
 
-## 10. Banco de Dados de Ataques/Vulnerabilidades
-https://attack.mitre.org/ 
-https://cve.mitre.org/ 
+## 10. Banco de Dados de Ataques/Vulnerabilidades <br>
+https://attack.mitre.org/ <br>
+https://cve.mitre.org/ <br>
 
-## 11. Consultorias
-https://www.gartner.com/en 
+## 11. Consultorias <br>
+https://www.gartner.com/en <br>
 
-## 12. Carreira / Roadmap / Vagas
-https://roadmap.sh/cyber-security 
-https://www.cybersecurityjobs.com/ 
+## 12. Carreira / Roadmap / Vagas <br>
+https://roadmap.sh/cyber-security <br>
+https://www.cybersecurityjobs.com/ <br>
 
-## 13. Laboratórios Gratuitos
-https://attackdefense.com/ (Ataque e defesa)
-https://cryptohack.org/ (Criptografia)
-https://cmdchallenge.com/ (Command Line)
-https://exploit.education/ (Explotação Educação)
-https://capturetheflag.withgoogle.com/ (Google Capture The Flag)
-https://defendtheweb.net/ (Defend The Web – UK)
-https://www.hacksplaining.com/lessons (Lessons) 
-https://ctf.hacker101.com/ (Hacker101 CTF)
-https://hackersec.com/ctf/ (CTF – HackerSec Brasil)
-https://hacking-lab.com/ (Labs Diversos)
-https://www.immersivelabs.com/ (Laboratórios Imersivos)
-https://overthewire.org/wargames/ (Jogos de Guerra)
-https://pentesterlab.com/ (Laboratório Pentest)
-https://www.amanhardikar.com/mindmaps/Practice.html (Pentest LABs)
-https://picoctf.com/ (CTF)
-https://pwnable.kr/play.php (CTF)
-https://www.holidayhackchallenge.com/2024/ (Challenge – SANS)
-https://cryptopals.com/ (Criptografia)
-https://www.vulnhub.com/ (Virtual Machines for Challenges)
-https://w3challs.com/ (Challenges)
-https://www.wechall.net/ (Challenges)
-https://cyberdefenders.org/blueteam-ctf-challenges/ (Challenges – Blue Team)
+## 13. Laboratórios Gratuitos <br>
+https://attackdefense.com/ (Ataque e defesa) <br>
+https://cryptohack.org/ (Criptografia) <br>
+https://cmdchallenge.com/ (Command Line) <br>
+https://exploit.education/ (Explotação Educação) <br>
+https://capturetheflag.withgoogle.com/ (Google Capture The Flag) <br>
+https://defendtheweb.net/ (Defend The Web – UK) <br>
+https://www.hacksplaining.com/lessons (Lessons) <br>
+https://ctf.hacker101.com/ (Hacker101 CTF) <br>
+https://hackersec.com/ctf/ (CTF – HackerSec Brasil) <br>
+https://hacking-lab.com/ (Labs Diversos) <br>
+https://www.immersivelabs.com/ (Laboratórios Imersivos) <br>
+https://overthewire.org/wargames/ (Jogos de Guerra) <br>
+https://pentesterlab.com/ (Laboratório Pentest) <br>
+https://www.amanhardikar.com/mindmaps/Practice.html (Pentest LABs) <br>
+https://picoctf.com/ (CTF) <br>
+https://pwnable.kr/play.php (CTF) <br>
+https://www.holidayhackchallenge.com/2024/ (Challenge – SANS) <br>
+https://cryptopals.com/ (Criptografia) <br>
+https://www.vulnhub.com/ (Virtual Machines for Challenges) <br>
+https://w3challs.com/ (Challenges) <br>
+https://www.wechall.net/ (Challenges) <br>
+https://cyberdefenders.org/blueteam-ctf-challenges/ (Challenges – Blue Team) <br>
 
-## 14. FORBES: Cursos de habilidades em IA
-https://forbes.com.br/carreira/2024/11/como-desenvolver-habilidades-em-ia-inteligencia-artificial/ 
+## 14. FORBES: Cursos de habilidades em IA <br>
+https://forbes.com.br/carreira/2024/11/como-desenvolver-habilidades-em-ia-inteligencia-artificial/ <br>
+FluêncIA (Microsoft) https://www.youtube.com/watch?v=D_YgMgMmwh8&list=PLmsFUfdnGr3xW76PdxpyPSPi6SCVbLihD <br>
+Especialização em Aprendizado de Máquina (Stanford) <br>
+https://www.coursera.org/specializations/machine-learning-introduction <br>
+Introdução à IA (IBM)<br> 
+https://skillsbuild.org/pt-br/college-students/digital-credentials/getting-started-with-artificial-intelligence <br>
+Introdução à IA Generativa (Google) <br>
+https://www.cloudskillsboost.google/course_templates/536?locale=pt_BR <br>
+IA – Microsoft <br>
+https://www.eucapacito.com.br/cursos/cursos-de-ai-inteligencia-artificial-escola-do-trabalhador-4-0/ <br>
 
-> FluêncIA (Microsoft) https://www.youtube.com/watch?v=D_YgMgMmwh8&list=PLmsFUfdnGr3xW76PdxpyPSPi6SCVbLihD 
+## 15. TOP Science News: For All Students <br>
+https://mittechreview.com.br/ <br>
+https://www.mit.edu/ <br>
+https://www.technologyreview.com/ <br>
+https://wellcome.org/ <br>
+https://www.rigb.org/ <br>
+https://www.frontiersin.org/ <br> 
+https://www.jpl.nasa.gov/ <br>
+https://www.science.org/ <br>
+https://www.nature.com/news <br>
+https://bigthink.com/ <br>
+https://www.livescience.com/ <br> 
+https://www.bbc.com/innovation <br>
+https://gizmodo.com/ <br>
+https://www.quantamagazine.org/ <br>
+https://www.statnews.com/ <br> 
 
-> Especialização em Aprendizado de Máquina (Stanford)
-https://www.coursera.org/specializations/machine-learning-introduction 
+## 16. Base de Dados Científicos <br>
+https://revistapesquisa.fapesp.br/ <br>
+https://www.scielo.br/ <br>
+https://scholar.google.com/ <br> 
+https://www.periodicos.capes.gov.br/ <br>
+https://www.science.gov/ <br>
+https://www.scielo.br/ <br>
+https://www.academia.edu/ <br>
 
-> Introdução à IA (IBM)
-https://skillsbuild.org/pt-br/college-students/digital-credentials/getting-started-with-artificial-intelligence 
-
-> Introdução à IA Generativa (Google)
-https://www.cloudskillsboost.google/course_templates/536?locale=pt_BR 
-
-> IA – Microsoft
-https://www.eucapacito.com.br/cursos/cursos-de-ai-inteligencia-artificial-escola-do-trabalhador-4-0/ 
-
-## 15. TOP Science News: For All Students
-https://mittechreview.com.br/ 
-https://www.mit.edu/ 
-https://www.technologyreview.com/ 
-https://wellcome.org/ 
-https://www.rigb.org/ 
-https://www.frontiersin.org/ 
-https://www.jpl.nasa.gov/ 
-https://www.science.org/ 
-https://www.nature.com/news 
-https://bigthink.com/ 
-https://www.livescience.com/ 
-https://www.bbc.com/innovation 
-https://gizmodo.com/ 
-https://www.quantamagazine.org/ 
-https://www.statnews.com/ 
-
-## 16. Base de Dados Científicos
-https://revistapesquisa.fapesp.br/ 
-https://www.scielo.br/ 
-https://scholar.google.com/ 
-https://www.periodicos.capes.gov.br/ 
-https://www.science.gov/ 
-https://www.scielo.br/ 
-https://www.academia.edu/ 
-
-## 17. Notícias em geral (Economia)
+## 17. Notícias em geral (Economia) <br>
 https://forbes.com.br/ 
 
 ## 18. Empresas de tecnologia BR
