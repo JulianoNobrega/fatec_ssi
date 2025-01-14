@@ -5,27 +5,27 @@ juliano.nobrega@fatec.sp.gov.br
 
 Links Importantes para Cibersegurança:
 
-## 1. Empresas certificadoras (Cybersecurity)
-https://www.isc2.org/ 
-https://www.comptia.org/certifications/security 
-https://www.itcerts.ca/ 
+## 1. Empresas certificadoras (Cybersecurity)<br>
+https://www.isc2.org/ <br>
+https://www.comptia.org/certifications/security <br>
+https://www.itcerts.ca/ <br>
 
-## 2. Cursos e Treinamentos (Inglês)
-https://tryhackme.com/ 
-https://www.hackthebox.com/ 
-https://training.dfirdiva.com/listing-category/osint (OSINT)
-https://learn.microsoft.com/en-us/training/courses/sc-200t00 (Microsoft)
-https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck (Mitre)
-https://training.fortinet.com/ (FORTINET)
+## 2. Cursos e Treinamentos (Inglês)<br>
+https://tryhackme.com/ <br>
+https://www.hackthebox.com/ <br> 
+https://training.dfirdiva.com/listing-category/osint (OSINT) <br>
+https://learn.microsoft.com/en-us/training/courses/sc-200t00 (Microsoft) <br>
+https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck (Mitre) <br>
+https://training.fortinet.com/ (FORTINET) <br>
 
-## 3. Cursos e Treinamentos (Português BR)
-https://desecsecurity.com/academy/ 
-https://ibsec.com.br/ 
-https://www.netacad.com/pt/ (CISCO)
-https://skillsbuild.org/pt-br/adult-learners/explore-learning/cybersecurity-analyst (IBM)
-https://hackersec.com/ 
-https://solyd.com.br/ 
-https://pato.academy/ 
+## 3. Cursos e Treinamentos (Português BR) <br>
+https://desecsecurity.com/academy/ <br>
+https://ibsec.com.br/ <br>
+https://www.netacad.com/pt/ (CISCO) <br>
+https://skillsbuild.org/pt-br/adult-learners/explore-learning/cybersecurity-analyst (IBM) <br>
+https://hackersec.com/ <br>
+https://solyd.com.br/ <br>
+https://pato.academy/ <br>
 
 ## 4. Notícias em geral (Cybersecurity)
 https://www.weforum.org/stories/cybersecurity/ 
