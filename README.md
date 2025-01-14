@@ -39,23 +39,23 @@ https://www.fortiguard.com/
 https://www.csoonline.com/ 
 https://boletimsec.com.br/ 
 
-5. Órgãos Governamentais / Frameworks
+## 5. Órgãos Governamentais / Frameworks
 https://www.cisa.gov/ 
 https://www.nist.gov/cybersecurity 
 https://www.cisecurity.org/ 
 https://www.cert.br/ 
 
-6. Ferramentas em Geral
+## 6. Ferramentas em Geral
 https://www.torproject.org/download/ 
 https://nmap.org/ 
 
-7. Sistemas Operacionais
+## 7. Sistemas Operacionais
 https://www.kali.org/ 
 https://parrotsec.org/ 
 https://sourceforge.net/projects/metasploitable/ 
 https://tails.net/index.pt.html 
 
-8. Mapa digital de ataque
+## 8. Mapa digital de ataque
 https://www.digitalattackmap.com/ 
 https://cybermap.kaspersky.com/ 
 https://threatmap.fortiguard.com/ 
@@ -63,22 +63,22 @@ https://attackmap.sonicwall.com/live-attack-map/
 https://threatbutt.com/map/ 
 https://www.spamhaus.com/threat-map/ 
 
-9. Matérias interessantes
+## 9. Matérias interessantes
 https://mittechreview.com.br/como-os-profissionais-de-ciberseguranca-devem-tomar-melhores-decisoes/ 
 https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html 
 
-10. Banco de Dados de Ataques/Vulnerabilidades
+## 10. Banco de Dados de Ataques/Vulnerabilidades
 https://attack.mitre.org/ 
 https://cve.mitre.org/ 
 
-11. Consultorias
+## 11. Consultorias
 https://www.gartner.com/en 
 
-12. Carreira / Roadmap / Vagas
+## 12. Carreira / Roadmap / Vagas
 https://roadmap.sh/cyber-security 
 https://www.cybersecurityjobs.com/ 
 
-13. Laboratórios Gratuitos
+## 13. Laboratórios Gratuitos
 https://attackdefense.com/ (Ataque e defesa)
 https://cryptohack.org/ (Criptografia)
 https://cmdchallenge.com/ (Command Line)
@@ -102,7 +102,7 @@ https://w3challs.com/ (Challenges)
 https://www.wechall.net/ (Challenges)
 https://cyberdefenders.org/blueteam-ctf-challenges/ (Challenges – Blue Team)
 
-14. FORBES: Cursos de habilidades em IA
+## 14. FORBES: Cursos de habilidades em IA
 https://forbes.com.br/carreira/2024/11/como-desenvolver-habilidades-em-ia-inteligencia-artificial/ 
 
 > FluêncIA (Microsoft) https://www.youtube.com/watch?v=D_YgMgMmwh8&list=PLmsFUfdnGr3xW76PdxpyPSPi6SCVbLihD 
@@ -119,7 +119,7 @@ https://www.cloudskillsboost.google/course_templates/536?locale=pt_BR
 > IA – Microsoft
 https://www.eucapacito.com.br/cursos/cursos-de-ai-inteligencia-artificial-escola-do-trabalhador-4-0/ 
 
-15. TOP Science News: For All Students
+## 15. TOP Science News: For All Students
 https://mittechreview.com.br/ 
 https://www.mit.edu/ 
 https://www.technologyreview.com/ 
@@ -136,7 +136,7 @@ https://gizmodo.com/
 https://www.quantamagazine.org/ 
 https://www.statnews.com/ 
 
-16. Base de Dados Científicos
+## 16. Base de Dados Científicos
 https://revistapesquisa.fapesp.br/ 
 https://www.scielo.br/ 
 https://scholar.google.com/ 
@@ -145,10 +145,10 @@ https://www.science.gov/
 https://www.scielo.br/ 
 https://www.academia.edu/ 
 
-17. Notícias em geral (Economia)
+## 17. Notícias em geral (Economia)
 https://forbes.com.br/ 
 
-18. Empresas de tecnologia BR
+## 18. Empresas de tecnologia BR
 https://www.totvs.com/ 
 https://www.brasoftware.com.br/ 
 https://stefanini.com/pt-br 
@@ -157,17 +157,17 @@ https://www.thoughtworks.com/pt-br
 https://softdesign.com.br/ 
 https://www.aec.com.br/ 
 
-19. Inovação
+## 19. Inovação
 https://www.superuber.com/ 
 https://www.ces.tech/ (Feira anual de tecnologia)
 
-20. Certificações de qualidade
+## 20. Certificações de qualidade
 https://www.iso.org/ 
 https://www.sixsigma-institute.org/ 
 https://www.peoplecert.org/ (ITIL/COBIT)
 https://www.iso.org/standard/27001 (ISO 27001 - Cybersecurity)
 
-21. Grandes empresas de segurança
+## 21. Grandes empresas de segurança
 https://news.sophos.com/en-us/ 
 https://www.crowdstrike.com/en-us/ 
 https://www.eset.com/br/ 
@@ -180,7 +180,7 @@ https://www.ibm.com/br-pt/ai-cybersecurity
 https://www.fortinet.com/ 
 https://www.maltego.com/ 
 
-22. Banco de Dados de IPs maliciosos (BlackList)
+## 22. Banco de Dados de IPs maliciosos (BlackList)
 https://www.abuseipdb.com/ 
 https://www.projecthoneypot.org/list_of_ips.php 
 https://www.maxmind.com/en/high-risk-ip-sample-list 
@@ -191,7 +191,7 @@ https://www.criminalip.io/
 https://mxtoolbox.com/SuperTool.aspx 
 https://exchange.xforce.ibmcloud.com/ (TOPPPPP)
 
-23. Ferramentas SOC/SIEM (Open Source)
+## 23. Ferramentas SOC/SIEM (Open Source)
 https://suricata.io/ 
 https://wazuh.com/ 
 https://www.snort.org/ 
@@ -202,25 +202,25 @@ https://github.com/andersonsevla/OsintIA_Tools
 https://www.zabbix.com (MONITORAMENTO ATIVOS TI) – TOPP
 https://grafana.com (DASHBOARDS) - TOPP
 
-24. Bases de Dados (GERAL)
+## 24. Bases de Dados (GERAL)
 https://dados.gov.br/home 
 https://www.kaggle.com/datasets 
 https://www.kaggle.com/datasets?search=Cybersecurity (Cybersecurity)
 
-25. Revistas Científicas
+## 25. Revistas Científicas
 https://journals-sol.sbc.org.br/index.php/comp-br/issue/view/326 
 
-26. VPN / IP Location
+## 26. VPN / IP Location
 https://nordvpn.com/pt-br/ip-lookup/ 
 
-27. Password Security
+## 27. Password Security
 https://cyber.org/find-curricula/test-strength-your-passwords 
 https://www.passwordmonster.com/ 
 https://password.kaspersky.com/pt/ 
 https://www.security.org/how-secure-is-my-password/ 
 https://bitwarden.com/password-strength/ 
 
-28. Vazamento de Dados/Senhas
+## 28. Vazamento de Dados/Senhas
 https://haveibeenpwned.com/ 
 https://boletimsec.com.br/c/vazamentos/ 
 https://cybernews.com/personal-data-leak-check/ 
@@ -228,7 +228,7 @@ https://idprotect.trendmicro.com/en-us/leakchecker
 https://www.avast.com/hackcheck 
 https://ilc.hpi.de/ 
 
-29. Free Cybersecurity Certifications
+## 29. Free Cybersecurity Certifications
 Splunk: https://www.splunk.com/en_us/training/free-courses/overview.html?301=/en_us/training/free-courses.html 
 Google: https://grow.google/certificates/ 
 Cisco: https://www.netacad.com/ 
@@ -242,7 +242,7 @@ ISC2 CC: https://www.isc2.org/Certifications/CC
 Lets Defend: https://letsdefend.io/ 
 MIT: https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/ 
 
-30. Ferramentas GITHUB
+## 30. Ferramentas GITHUB
 https://github.com/enaqx/awesome-pentest (PENTEST)
 https://blog.compass-security.com/2019/10/hacking-tools-cheat-sheet/ (Hacking Tool Cheat Sheet)
 https://www.ired.team/offensive-security-experiments/offensive-security-cheetsheets (Pentest)
@@ -262,7 +262,7 @@ https://github.com/carpedm20/awesome-hacking (Awesome Hacking) WOWW
 https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE (Pentest BIBLE) WOWWW
 https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide (GUIDE PREMIUM) WOWW
 
-31. Prova de certificação – Prática/Grátis
+## 31. Prova de certificação – Prática/Grátis
 https://certpreps.com/ (Principal)
 https://certpreps.com/secplus/ (SECURITY+) (julianospam@yahoo.com / bazinga24@)
 https://certpreps.com/cissp/ (CISSP)
@@ -272,7 +272,7 @@ https://certpreps.com/ccna/ (CCNA)
 https://certpreps.com/aplus1/ (A+)
 https://certpreps.com/ceh/#1 (CEH)
 
-32. Gerenciadores de Senha
+## 32. Gerenciadores de Senha
 https://1password.com/ 
 https://passwords.google.com/?pli=1 
 https://bitwarden.com/ 
@@ -280,7 +280,7 @@ https://www.lastpass.com/pt
 https://www.roboform.com/ 
 https://keepass.info/ 
 
-33. Gerador de Senha
+## 33. Gerador de Senha
 https://www.lastpass.com/pt/features/password-generator 
 https://passwordsgenerator.net/ 
 https://www.avast.com/random-password-generator 
@@ -290,27 +290,27 @@ https://delinea.com/resources/password-generator-it-tool
 https://nordpass.com/password-generator/ 
 https://www.random.org/passwords/ 
 
-34. Soluções para BACKUP
+## 34. Soluções para BACKUP
 https://www.veeam.com
 https://www.acronis.com 
 https://www.cobiansoft.com (FREE)
 https://www.msp360.com 
 
-35. Soluções Antivírus (Endpoint)
+## 35. Soluções Antivírus (Endpoint)
 https://www.kaspersky.com.br/ 
 https://www.trendmicro.com/ 
 https://br.norton.com/ 
 https://www.bitdefender.com/pt-br/ 
 https://www.mcafee.com/pt-br/index.html 
 
-36. Firewall
+## 36. Firewall
 https://www.sonicwall.com (Next Generation)
 https://www.claranet.com/br/acesso-seguro/ngfw 
 https://www.paloaltonetworks.com/network-security/next-generation-firewall 
 https://www.sophos.com/pt-br 
 https://www.cloudflare.com/pt-br/ (Melhor!)
 
-37. Grupos Hackers
+## 37. Grupos Hackers
 https://en.wikipedia.org/wiki/List_of_hacker_groups 
 https://em360tech.com/top-10/most-notorious-hacker-groups 
 https://www.cobalt.io/blog/top-10-most-notorious-hacker-groups 
@@ -319,24 +319,24 @@ https://x.com/youranonnewsbr?mx=2
 https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-131a
 https://en.wikipedia.org/wiki/Lazarus_Group  
 
-38. Ransomware Code (TAKE CARE!!)
+## 38. Ransomware Code (TAKE CARE!!)
 https://github.com/kh4sh3i/Ransomware-Samples 
 https://github.com/Da2dalus/The-MALWARE-Repo 
 
-39. DECRYPT Ransomware
+## 39. DECRYPT Ransomware
 https://www.nomoreransom.org/en/index.html 
 https://noransom.kaspersky.com/ 
 https://www.avast.com/ransomware-decryption-tools 
 https://www.emsisoft.com/en/ransomware-decryption/ 
 https://github.com/jamestiotio/NoMoreRansom 
 
-40. Gamificação
+## 40. Gamificação
 https://xn--seguranaemjogo-mjb.com.br/ 
 
-41. Treinamento Phishing
+## 41. Treinamento Phishing
 https://caniphish.com/ 
 
-42. Eventos Hachers
+## 42. Eventos Hachers
 https://www.h2hc.com.br/ 
 https://www.roadsec.com.br/ 
 https://www.mindthesec.com.br/ (TOP)
@@ -346,11 +346,11 @@ https://www.ysts.org/
 https://cursoseventos.nic.br/ 
 https://www.aihack.com.br/ 
 
-43. Difusão de Conhecimento
+## 43. Difusão de Conhecimento
 https://cartilha.cert.br/fasciculos/ 
 https://nic.br/publicacoes/indice/ 
 
-44. Recompensas
+## 44. Recompensas
 https://www.bughunt.com.br/ 
 https://www.microsoft.com/en-us/msrc/bounty 
 https://www.bugcrowd.com/ 
@@ -361,11 +361,11 @@ https://www.synack.com/
 https://www.yeswehack.com/
 https://hackenproof.com/ 
 
-45. Forense
+## 45. Forense
 https://www.autopsy.com
 https://www.sleuthkit.org/sleuthkit 
 
-46. Honeypots
+## 46. Honeypots
 https://honeytarg.cert.br/honeypots/index-po.html 
 https://www.honeyd.org/general/ 
 https://www.honeypot.io/en/
@@ -374,15 +374,12 @@ https://github.com/JMousqueton/honeypot-attack-map
 https://www.honeynet.org/ 
 https://labs.leaseweb.com/real-time-honeypot-attack-map-ce2b48cf1cd5 
 
-47. SOAR
+## 47. SOAR
 https://thehive-project.org/ 
 
-48. Listas/Wordlists for Brute force Attacks
+## 48. Listas/Wordlists for Brute force Attacks
 https://github.com/gmelodie/awesome-wordlists 
 https://github.com/Karanxa/Bug-Bounty-Wordlists 
-
-
-![image](https://github.com/user-attachments/assets/a2feb666-47dc-498c-ab6a-d03b74d10c1c)
 
 
 
