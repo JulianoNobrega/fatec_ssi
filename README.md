@@ -315,6 +315,8 @@ https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-131a <br>
 https://en.wikipedia.org/wiki/Lazarus_Group   <br>
 
 ## 38. Ransomware Code (TAKE CARE!!) <br>
+https://www.activecountermeasures.com/ac-hunter/ (Malware Of The Day) <br>
+https://www.activecountermeasures.com  <br>
 https://github.com/kh4sh3i/Ransomware-Samples  <br>
 https://github.com/Da2dalus/The-MALWARE-Repo  <br>
 
