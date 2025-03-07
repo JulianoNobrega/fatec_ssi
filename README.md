@@ -66,10 +66,14 @@ https://www.spamhaus.com/threat-map/ <br>
 ## 9. Matérias interessantes <br>
 https://mittechreview.com.br/como-os-profissionais-de-ciberseguranca-devem-tomar-melhores-decisoes/ <br>
 https://www.csoonline.com/article/534628/the-biggest-data-breaches-of-the-21st-century.html <br>
+https://mittechreview.com.br/futuro-seguranca-digital-2025/ <br>
+https://blog.nvidia.com.br/blog/framework-nvidia-morpheus/ <br>
 
 ## 10. Banco de Dados de Ataques/Vulnerabilidades <br>
 https://attack.mitre.org/ <br>
 https://cve.mitre.org/ <br>
+https://feedly.com/threat-intelligence (Threat Intelligence) <br>
+https://vuldb.com/pt/ <br>
 
 ## 11. Consultorias <br>
 https://www.gartner.com/en <br>
@@ -185,6 +189,8 @@ https://zeltser.com/malicious-ip-blocklists/  <br>
 https://www.criminalip.io/  <br>
 https://mxtoolbox.com/SuperTool.aspx  <br>
 https://exchange.xforce.ibmcloud.com/ (TOPPPPP) <br>
+https://opentip.kaspersky.com <br>
+
 
 ## 23. Ferramentas SOC/SIEM (Open Source) <br>
 https://suricata.io/  <br>
@@ -378,5 +384,49 @@ https://thehive-project.org/  <br>
 https://github.com/gmelodie/awesome-wordlists  <br>
 https://github.com/Karanxa/Bug-Bounty-Wordlists  <br>
 
+## 49. Pentest <br>
+https://hakaisecurity.io (BR) <br>
+https://nox5.com.br (BR)<br>
+https://ish.com.br (BR)<br>
+https://www.cobaltstrike.com <br> 
+https://www.getastra.com <br>
+https://www.intruder.io <br>
+https://www.cobalt.io <br>
+https://www.invicti.com <br>
+	
+## 50. Virtualização <br>
+https://www.vmware.com 
+https://access.broadcom.com/default/ui/v1/signin/ (Download VMWARE) <br>
+https://www.virtualbox.org <br>
+https://www.osboxes.org (Máquinas prontas) <br>
+
+## 51. LINUX Distros <br>
+https://ubuntu.com <br>
+https://linuxmint.com <br>
+https://www.debian.org/index.pt.html <br>
+https://archlinux.org <br>
+https://pop.system76.com <br>
+https://www.opensuse.org <br>
+
+## 52. EMAIL Fake <br>
+https://proton.me/pt-br/mail <br>
+https://www.zoho.com/pt-br/mail/ <br>
+https://mailfence.com/pt/ <br>
+
+## 53. OSINT <br>
+https://www.shodan.io/ <br>
+https://www.maltego.com/ <br>
+https://github.com/laramies/theHarvester <br>
+https://www.100security.com.br/spiderfoot <br>
+https://intel471.com/ <br>
+https://www.exploit-db.com/google-hacking-database <br>
+https://lucassoeiro.medium.com/utilizar-a-ferramenta-metagoofil-ca53929dda93 <br>
+https://www.babelstreet.com/ <br>
+
+## 54. ÓRGÃOS PROTEÇÃO PRIVACIDADE <br>
+https://www.eff.org/ <br>
+
+## 55. EMPRESAS DE INVESTIGAÇÃO GLOBAL <br>
+https://www.nsogroup.com/ (PEGASUS SOFTWARE) <br>
 
 
