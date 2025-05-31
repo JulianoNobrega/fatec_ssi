@@ -429,4 +429,9 @@ https://www.eff.org/ <br>
 ## 55. EMPRESAS DE INVESTIGAÇÃO GLOBAL <br>
 https://www.nsogroup.com/ (PEGASUS SOFTWARE) <br>
 
+## 56. QUIZ
+QUIZ 1 - Turma 2025 (1o. Semestre) - https://forms.gle/Z9nuq6yr3QuH585K6 <br>
+
+
+
 
